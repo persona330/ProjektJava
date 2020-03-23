@@ -1,1 +1,1 @@
-# ProjektJava
+# KGU InfoTesh
